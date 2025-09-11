@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "AI Rant"
+date:   2025-09-11 00:00:00 -0800
+categories: blog
+---
+The AI hype seems to have been getting stronger even recently. Here are some thoughts:
+
+I think AI is useful in and of itself. But I do think that we're pushing it a bit. We don't have the technology allowing us to integrate AI at such a rapid rate into day to day products yet. And even if we do have it one day, it doesn't feel right to neglect the programmers who, at some point when AI introduces bugs, have to get involved and clean things up.
+
+I also feel like the AI craze itself will slow down at some point, although the tech industry might never get the hype it once had. There's a huge pool of applicants looking for jobs, and I wouldn't be surprised if we never have near enough (actual) occupancies for these people.
+
+While I, too, have been affected by all this mess, I tend to think of what I can do, instead of dwelling on what's out of my control. There are a lot of soft skills that I think are hard to developer, and insanely valuable. One that I'm proud to have is actually enjoying hard things in life. I simply get bored when things are not hard, to the extent where I create a challenge for myself is there is nothing. I have seen so many talented people that either can't deal with hard things, or have some sort of limit on how much hard stuff you can throw at them before they break down. While I'm a human too, and I have certainly `almost` broke down after immense periods of pressure, my threshold has proven to be considerably higher than people that I know. The challenge with my situation is, I get bored more easily compared to most people, so I have to balance it by either finding something challenging in my work, or having a hobby that stimulates that part of my brain.
+
+The other thing, is that if anything resembling software engineering was to stay after a few days for normal humans like me and you to do, I still feel like those who have strong fundamentals would have a clear advantage over somebody who just uses AI and don't know what to do when the whole system suddenly crumbles down. I don't know what the practice of software engineering might even entail then, but I try to stay hopeful. While all the big companies are making a big deal out of all their investments on AI, things are not looking bright short-term to mid-term for the individuals who have to make a living being in tech. I see a lot of people finding success by literally lunching startups that do different things using AI, and somehow manage to secure huge VC fundings, but I feel like that's also going to stop soon. The promising ones will get bought by big companies, and we'll have some major AI companies that pretty much do everything else that those other small ones promise to do; perhaps even better than them! And once that happens, we're back to square one. 

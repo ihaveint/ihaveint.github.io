@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "brute-force"
+date:   2025-10-08 00:00:00 -0800
+categories: blog
+---
+Some mental lessons from brute-force,
+
+The first time I implemented a brute-force algorithm was probably when I was around 14; it's been more than 10 years at this point. And interestingly, I had this random thought in my head that we tend to look down on brute-force in computer science in a lot of scenarios, because it's not efficient, especially if you have a combinatorial explosion situation for the domain problem you're working at.
+But in reality, in real-life circumstances, is brute-force really that bad?
+Life is complex in nature, I'm not denying that. But I've seen firsthand how many individuals have achieved their goals in life by sheer brute force. And I think there's a deep lesson in that: While everybody keeps telling you to work smarter, be more productive, use that new workflow to be faster, etc. there's a whole different kind of game to be played by just brute-forcing things in life.
